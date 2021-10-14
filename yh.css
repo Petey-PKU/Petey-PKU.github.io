@@ -1,4 +1,6 @@
-h1,h2{color:yellow
+h1{color:rgb(97, 85, 166)
+font-werght:bold}
+h2{color:rgb(166, 133, 226)
 font-werght:bold}
 p{color:white}
 body{background: #3494E6;  /* fallback for old browsers */
